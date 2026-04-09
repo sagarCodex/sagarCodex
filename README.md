@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sagarCodex
-- 👀 I’m interested in Salesforce LWC.
-- 🌱 I’m currently learning Salesforce LWC.
-- 💞️ I’m looking to collaborate on salesforce LWC.
+- 👀 I’m loving Vibe Coding so far
 - 📫 How to reach me sagara7147@gmail.com
 - 
 <!---
